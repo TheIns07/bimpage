@@ -1,0 +1,12 @@
+
+.shapeLogo{
+    display: inline-flex;
+    width: 400px;
+    height: 400px;
+    border-radius: 0 30px 240px 0 ;
+    background: brown;
+}
+.shapeLogo img{
+    width: 340px;
+    height: 340px;
+}
